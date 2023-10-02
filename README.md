@@ -1,2 +1,2 @@
 # UNR_2023
-Repository for UNR final project
+Repository for UNR Final Project
